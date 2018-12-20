@@ -17,6 +17,7 @@ namespace IBSampleApp
         [STAThread]
         static void Main()
         {
+            //test
             //Watch out for any language formatting issues!
             Application.CurrentCulture = CultureInfo.CreateSpecificCulture("en-US");
             Application.EnableVisualStyles();
